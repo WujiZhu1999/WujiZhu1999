@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wuji Zhu, a Computer Science master student as University of Melbourne
-- 👀 I’m interested in Computer Vision, Autonomous vehicles and anything that is relate to computer vision.
-- 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on any project related to computer vision especially relates to object localization.
+- 👀 I’m interested in Cloud Computing, Distributed Systems and anything that is relate to parallel computing.
+- 🌱 I’m currently doing a backend internship at Canva.
+- 💞️ I’m looking to collaborate on any project related to cloud computing.
 - 📫 WujiZhu1999@outlook.com
 
 <!---
